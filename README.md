@@ -1,4 +1,4 @@
-# Latihan CPP Harian
+# Latihan C++
 
 - **Mata Kuliah:** Algoritma dan Pemrograman  
 - **Dosen Pengampu:** Erick Paulus, S.Si., M.Kom. 
