@@ -1,0 +1,2 @@
+DeretBilangan.cpp      = 11:23
+JumlahDanRataRata.cpp  = 14:41
