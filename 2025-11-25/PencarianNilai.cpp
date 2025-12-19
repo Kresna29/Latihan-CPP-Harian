@@ -3,8 +3,7 @@ Nama Program : Pencarian Nilai
 Nama         : Kresna Bayu Wicaksono
 NPM          : 140810230025
 Tanggal Buat : 25 November 2025
-Deskripsi    : Program untuk mencari suatu nilai tertentu di dalam
-               array menggunakan metode pencarian linear (sequential search)
+Deskripsi    : Program untuk mencari suatu nilai tertentu di dalam array menggunakan metode pencarian linear (sequential search)
 */
 
 #include <iostream>

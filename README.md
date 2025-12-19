@@ -7,3 +7,5 @@
 - **Kelas:** B
 
 Last Updated: 20/12/2025
+
+Notes: Baru nge-push di 20 Des karna lupa di-push

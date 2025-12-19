@@ -3,8 +3,7 @@ Nama Program : Pencarian Indeks Nilai
 Nama         : Kresna Bayu Wicaksono
 NPM          : 140810230025
 Tanggal Buat : 25 November 2025
-Deskripsi    : Program untuk mencari dan menampilkan semua indeks
-               yang memiliki nilai tertentu dalam array
+Deskripsi    : Program untuk mencari dan menampilkan semua indeks yang memiliki nilai tertentu dalam array
 */
 
 #include <iostream>
